@@ -1,21 +1,28 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import people from "./people.json";
 import './App.css';
+import Navbar from "./components/Navbar";
+import Wrapper from "./components/Wrapper";
+import Hero from "./components/Hero";
+import Footer from "./components/Footer";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
-  }
-}
+
+const App = () => (
+  <Router>
+    <div>
+      <Navbar />
+      <Wrapper>
+        <Hero backgroundImage="https://i.imgur.com/VtdtTqT.jpg">
+          <h1>KUBRICK CLICKY</h1>
+          <h2>click on an image to earn points, but don't click on any more than once or the pod bay doors might not open...</h2>
+        </Hero>
+
+
+      </Wrapper>
+      <Footer />
+    </div>
+  </Router>
+);
 
 export default App;
