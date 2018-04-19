@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Alex",
-    "image": "https://i.imgur.com/RsRei5v.jpg",
+    "image": "https://i.imgur.com/rmM4Cia.jpg",
     "clicked": false
   },
   {
     "id": 2,
     "name": "Alice",
-    "image": "https://i.imgur.com/MH4t3wC.jpg",
+    "image": "https://i.imgur.com/uB1rQmW.jpg",
     "clicked": false
   },
   {
     "id": 3,
     "name": "Barry",
-    "image": "https://i.imgur.com/BKlOsdk.jpg",
+    "image": "https://i.imgur.com/slPOhHK.jpg",
     "clicked": false
   },
   {
     "id": 4,
     "name": "Bowman",
-    "image": "https://i.imgur.com/3xAuMQd.jpg",
+    "image": "https://i.imgur.com/GJJdfL6.jpg",
     "clicked": false
   },
   {
     "id": 5,
     "name": "Dr. Strangelove",
-    "image": "https://i.imgur.com/lR2ZObq.jpg",
+    "image": "https://i.imgur.com/UJvRDSJ.jpg",
     "clicked": false
   },
   {
     "id": 6,
     "name": "HAL",
-    "image": "https://i.imgur.com/0mew4gy.jpg",
+    "image": "https://i.imgur.com/3UXSBLr.jpg",
     "clicked": false
   },
   {
     "id": 7,
     "name": "Jack",
-    "image": "https://i.imgur.com/jpcnmyI.jpg",
+    "image": "https://i.imgur.com/HJDgLEG.jpg",
     "clicked": false
   },
   {
     "id": 8,
     "name": "President",
-    "image": "https://i.imgur.com/CP843wN.jpg",
+    "image": "https://i.imgur.com/oYZXCIj.jpg",
     "clicked": false
   },
   {
     "id": 9,
     "name": "Stanley",
-    "image": "https://i.imgur.com/DyynMPm.jpg",
+    "image": "https://i.imgur.com/18KkzYD.jpg",
     "clicked": false
   },
   {
     "id": 10,
     "name": "Wendy",
-    "image": "https://i.imgur.com/3kRh86u.jpg",
+    "image": "https://i.imgur.com/SkwKjCv.jpg",
     "clicked": false
   },
   {
     "id": 11,
     "name": "William",
-    "image": "https://i.imgur.com/UlHVcVf.jpg",
+    "image": "https://i.imgur.com/Cq6w6Fa.jpg",
     "clicked": false
   },
   {
     "id": 12,
     "name": "Hartman",
-    "image": "https://i.imgur.com/AGhEEkF.jpg",
+    "image": "https://i.imgur.com/Yv87bqf.jpg",
     "clicked": false
   }
 ]
