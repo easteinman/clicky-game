@@ -6,7 +6,7 @@ import "./Navbar.css";
 const Navbar = props => (
   <nav className="navbar navbar-expand-lg fixed-top">
     <Link className="navbar-brand col-sm-3" to="/">
-      Kubrick Klick
+      Kubrick Clicky
     </Link>
     <div class="alert col-sm-6">
       <p class="animated infinite flash">{props.Alert}</p>
