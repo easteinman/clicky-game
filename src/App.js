@@ -30,7 +30,7 @@ class App extends Component {
     if (cardClicked[0].clicked) {
 
       numberCorrect = 0;
-      Alert = 'Boohoohoo. Try a malenky bit harder next time.';
+      Alert = 'Boohoohoo. Try a malenky bit harder next time my droog.';
 
 
       for (let i = 0; i < People.length; i++) {
