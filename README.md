@@ -3,38 +3,35 @@
 
 ---
 
-<h1 id="kubrick-clicky-game">Kubrick Clicky Game</h1>
+<h1 id="judymadeleine">judy&amp;madeleine</h1>
 <h2 id="overview">Overview</h2>
-<ul>
-<li>Create a new React application using <a href="https://github.com/facebook/create-react-app">Create React App</a>.</li>
-<li>The application should render different images (of your choice) to the screen. Each image should listen for click events.</li>
-<li>The application should keep track of the user’s score. The user’s score should be incremented when clicking an image for the first time. The user’s score should be reset to 0 if they click the same image more than once.</li>
-<li>Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.</li>
-<li>Once the user’s score is reset after an incorrect guess, the game should restart.</li>
-</ul>
-<h2 id="demo">Demo</h2>
-<p><img src="https://media.giphy.com/media/B24MbOz9LQfxQissou/giphy.gif" alt="enter image description here"><br>
-You can check out the functioning app yourself <a href="https://kubrickclicky.herokuapp.com">here</a>.</p>
-<h2 id="getting-started">Getting Started</h2>
-<p>These instructions will help you get a copy of this project up and running on your local machine for development and testing purposes.</p>
+<p><strong>judy&amp;madeleine</strong> is an ecommerce storefront built utilizing Reaction Commerce, a modern, open source platform for premier ecommerce experiences. This shop was created as an alternative to an Etsy shop to better cater to judy&amp;madeleine’s target demographic and provide more control over the marketing and UX/UI for the owner.</p>
 <h3 id="technologies-used">Technologies Used</h3>
 <ul>
 <li>React</li>
 <li>JSX</li>
 <li>ES6</li>
+<li>Node.js</li>
+<li>Reaction Commerce</li>
+<li>Meteor</li>
+<li>Express</li>
 <li>Bootstrap</li>
-<li>CSS</li>
-<li>react-router-dom</li>
+<li>LESS</li>
+<li>MongoDB</li>
+<li>mLab</li>
+<li>Braintree</li>
+<li>…and more</li>
 </ul>
 <h3 id="installing">Installing</h3>
 <p>Follow the instructions below to get the app running on your own computer.</p>
 <ul>
 <li><a href="https://help.github.com/articles/cloning-a-repository/">Clone the repo</a> to your computer.</li>
-<li>After cloning the repo to your machine run <code>yarn install</code> in the terminal while inside the apps main folder.</li>
+<li>Ensure latest version of <a href="https://github.com/reactioncommerce/reaction-cli">reaction-cli</a> is installed <code>npm i -g reaction-cli</code></li>
+<li>After cloning the repo to your machine run <code>meteor npm install</code> in the terminal while inside the apps main folder to install the dependencies.</li>
 </ul>
 <h2 id="running-the-app">Running the App</h2>
 <p>Run the following command in the terminal while within the apps folder:</p>
-<pre><code>yarn start
+<pre><code>reaction
 </code></pre>
-<p>The application will then be available via your browser at <code>localhost:3000</code>.</p>
+<p>The application will then be available via your browser at <code>localhost:3000</code> and should <a href="http://judyandmadeleine.meteorapp.com/">look like this</a>.</p>
 
